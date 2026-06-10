@@ -55,5 +55,5 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A0D18&height=100&section=footer&text=SHASHWAT.SYS_V2&fontSize=20&fontAlignY=70&fontColor=3CE5FF" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A0D18&height=100&section=footer&text=SHASHWAT.SYS&fontSize=20&fontAlignY=70&fontColor=3CE5FF" width="100%" />
 </div>
