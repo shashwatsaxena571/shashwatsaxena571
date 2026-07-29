@@ -13,7 +13,10 @@
   <a href="https://www.linkedin.com/in/saxena-shashwat/">
     <img src="https://img.shields.io/badge/LINKEDIN_SYNC-0A0D18?style=for-the-badge&logo=linkedin&logoColor=3CE5FF&borderColor=1F2642" />
   </a>
-  <a href="mailto:shashwatsaxena115@gmail.com">
+  <a href="https://www.linkedin.com/newsletters/7488207829871304704/">
+    <img src="https://img.shields.io/badge/NEWSLETTER_FEED-0A0D18?style=for-the-badge&logo=rss&logoColor=3CE5FF&borderColor=1F2642" />
+  </a>
+  <a href="mailto:shashwatsaxena171@gmail.com">
     <img src="https://img.shields.io/badge/ESTABLISH_LINK-0A0D18?style=for-the-badge&logo=protonmail&logoColor=3CE5FF&borderColor=1F2642" />
   </a>
 </p>
