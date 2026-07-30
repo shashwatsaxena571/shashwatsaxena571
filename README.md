@@ -16,6 +16,15 @@
   <a href="https://www.linkedin.com/newsletters/7488207829871304704/">
     <img src="https://img.shields.io/badge/NEWSLETTER_FEED-0A0D18?style=for-the-badge&logo=rss&logoColor=3CE5FF&borderColor=1F2642" />
   </a>
+  <a href="https://x.com/I_m_Shash">
+    <img src="https://img.shields.io/badge/X_FEED-0A0D18?style=for-the-badge&logo=x&logoColor=3CE5FF&borderColor=1F2642" />
+  </a>
+  <a href="https://www.youtube.com/@ByteSparkInsights">
+    <img src="https://img.shields.io/badge/YOUTUBE-0A0D18?style=for-the-badge&logo=youtube&logoColor=3CE5FF&borderColor=1F2642" />
+  </a>
+  <a href="https://medium.com/@shashwatsaxena115">
+    <img src="https://img.shields.io/badge/MEDIUM-0A0D18?style=for-the-badge&logo=medium&logoColor=3CE5FF&borderColor=1F2642" />
+  </a>
   <a href="mailto:shashwatsaxena171@gmail.com">
     <img src="https://img.shields.io/badge/ESTABLISH_LINK-0A0D18?style=for-the-badge&logo=protonmail&logoColor=3CE5FF&borderColor=1F2642" />
   </a>
@@ -50,7 +59,18 @@
 
 ---
 
-<h3 align="left"><code>03 // SYSTEM DIAGNOSTICS</code></h3>
+<h3 align="left"><code>03 // ACTIVE BUILDS</code></h3>
+
+| Repo | What it does |
+|------|--------------|
+| [**lineage-explanation-tracer**](https://github.com/shashwatsaxena571/lineage-explanation-tracer) | Traces a wrong prediction to the corrupt upstream table — attributions × data lineage |
+| [**explainops**](https://github.com/shashwatsaxena571/explainops) | Explainability as a pipeline stage — versioned, queryable explanation store |
+| [**explainable-pipelines**](https://github.com/shashwatsaxena571/explainable-pipelines) | Companion repo for the weekly newsletter |
+| [**samjhao-ai**](https://github.com/shashwatsaxena571/samjhao-ai) | AI PDF reader that explains documents in Hindi/Hinglish, with voice |
+
+---
+
+<h3 align="left"><code>04 // SYSTEM DIAGNOSTICS</code></h3>
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shashwatsaxena571&show_icons=true&hide_border=true&title_color=3CE5FF&icon_color=3CE5FF&text_color=E0E4F0&bg_color=0A0D18" />
