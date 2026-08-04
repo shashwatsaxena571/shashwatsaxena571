@@ -38,7 +38,7 @@
 
 > _"I build data pipelines that don't break. Over 5+ years, I've gone from writing basic SQL to architecting enterprise-scale Cloud Data Lakes and deploying RAG pipelines that process millions of records daily."_
 
-- `[+]` **CURRENT_NODE:** Data Engineer @ **IBM** (Client: Barclays)
+- `[+]` **CURRENT_NODE:** Data Engineer @ **IBM** (large banking client)
 - `[+]` **R&D_SECTOR:** Ph.D. Scholar (Trustworthy & Explainable AI) @ **VIT**
 - `[+]` **TELEMETRY:** Big Data | PySpark | Databricks | AWS | GenAI
 - `[+]` **DIRECTIVE:** Making LLMs transparent, bias-free, and ethically compliant.
